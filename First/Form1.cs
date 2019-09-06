@@ -38,7 +38,7 @@ namespace First
             }
             else if ( finalDeck > 21)
             {
-                gameField.Text = "loser";
+                gameField.Text = "You Lose";
             }
         }
 
